@@ -1,7 +1,4 @@
 
-<h2>ℹ️ &nbsp;Github Info</h2>
-	
-  <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=belltechteam01&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="belltechteam01" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=belltechteam01&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="belltechteam01" align = "center"/></p>
 
